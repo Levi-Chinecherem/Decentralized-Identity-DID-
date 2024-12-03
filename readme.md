@@ -6,6 +6,8 @@
 ### **1. System Objective**
 The system aims to provide Decentralized Autonomous Organizations (DAOs) with a robust, privacy-preserving identity and reputation management solution. It enables DAO members to establish verifiable identities, track contributions using non-transferable credentials, vote anonymously while maintaining accountability, and communicate securely for governance purposes.  
 
+![Overview](overview.png)
+
 ---
 
 ### **2. Key Features**
